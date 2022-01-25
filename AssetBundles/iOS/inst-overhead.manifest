@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 531047005
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 70a38db9e78879bba877603c6db945d9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sound Bundle/Whitty/Inst-overhead.mp3
+Dependencies: []

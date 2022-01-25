@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1452229067
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4aee7e88346edb9dd5d7b389065bff3e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sound Bundle/Vs Kissy Missy/Inst-kissy.mp3
+Dependencies: []

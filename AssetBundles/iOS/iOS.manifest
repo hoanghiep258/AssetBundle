@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 2636574659
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: inst-playtime
+      Dependencies: {}
+    Info_1:
+      Name: inst-kissy_playtime
+      Dependencies: {}

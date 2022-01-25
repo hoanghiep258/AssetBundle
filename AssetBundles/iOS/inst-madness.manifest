@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 522937414
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d0de7cebc37ee977b6b25d994e058245
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sound Bundle/Tricky/Inst-madness.mp3
+Dependencies: []

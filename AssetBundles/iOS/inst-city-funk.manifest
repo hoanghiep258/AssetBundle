@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1288613862
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 087da3d63eaafd40aa8485d07b98594b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sound Bundle/Cassette/Inst-city-funk.mp3
+Dependencies: []

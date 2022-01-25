@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1277953742
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4d05cbec36d8f6759954b26613f12446
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sound Bundle/Gacello/Inst-headache.mp3
+Dependencies: []
